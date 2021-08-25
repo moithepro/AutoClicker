@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.config
+C:\Users\User\source\repos\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.manifest
+C:\Users\User\source\repos\AutoClicker\AutoClicker\bin\Release\AutoClicker.application
+C:\Users\User\source\repos\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe
+C:\Users\User\source\repos\AutoClicker\AutoClicker\bin\Release\AutoClicker.pdb
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.Form1.resources
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.Properties.Resources.resources
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe.manifest
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.application
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.pdb

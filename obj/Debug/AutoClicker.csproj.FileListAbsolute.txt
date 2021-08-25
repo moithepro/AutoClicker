@@ -1,0 +1,24 @@
+C:\Users\User\AppData\Local\Temporary Projects\AutoClicker\bin\Debug\AutoClicker.exe.config
+C:\Users\User\AppData\Local\Temporary Projects\AutoClicker\bin\Debug\AutoClicker.exe
+C:\Users\User\AppData\Local\Temporary Projects\AutoClicker\bin\Debug\AutoClicker.pdb
+C:\Users\User\AppData\Local\Temporary Projects\AutoClicker\obj\Debug\AutoClicker.csprojAssemblyReference.cache
+C:\Users\User\AppData\Local\Temporary Projects\AutoClicker\obj\Debug\AutoClicker.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\AutoClicker\obj\Debug\AutoClicker.csproj.GenerateResource.cache
+C:\Users\User\AppData\Local\Temporary Projects\AutoClicker\obj\Debug\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\User\AppData\Local\Temporary Projects\AutoClicker\obj\Debug\AutoClicker.exe
+C:\Users\User\AppData\Local\Temporary Projects\AutoClicker\obj\Debug\AutoClicker.pdb
+C:\Users\User\AppData\Local\Temporary Projects\AutoClicker\obj\Debug\AutoClicker.Form1.resources
+C:\Users\User\source\repos\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe.config
+C:\Users\User\source\repos\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe
+C:\Users\User\source\repos\AutoClicker\AutoClicker\bin\Debug\AutoClicker.pdb
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Form1.resources
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Properties.Resources.resources
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.exe
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.pdb
+C:\Users\User\source\repos\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe.manifest
+C:\Users\User\source\repos\AutoClicker\AutoClicker\bin\Debug\AutoClicker.application
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.exe.manifest
+C:\Users\User\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.application
